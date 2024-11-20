@@ -1,5 +1,5 @@
 # Simulación del Modelo Lotka-Volterra  
-Este proyecto implementa y simula el **Modelo de Lotka-Volterra**, que describe la interacción entre dos especies: una presa (e.g., conejos) y un depredador (e.g., zorros). Además, incluye elementos visuales y animaciones interactivas para enriquecer la comprensión del modelo.  
+Este proyecto implementa y simula el **Modelo de Lotka-Volterra**, que describe la interacción entre dos especies: una presa (conejos) y un depredador (zorros). Además, incluye elementos visuales y animaciones interactivas para enriquecer la comprensión del modelo.  
 
 ---
 
