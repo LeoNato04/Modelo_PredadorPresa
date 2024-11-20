@@ -49,7 +49,15 @@ Estas librerías vienen incluidas en Python y no requieren instalación adiciona
 ---
 
 ## Cómo Ejecutar el Proyecto  
-1. Asegúrate de tener **Python 3.7+** instalado.  
-2. Instala las librerías necesarias ejecutando:  
+1. Asegúrate de tener **Python 3.7+** instalado.
+2. Crea un entorno Virtual.
+   ```bash
+   python -m venv Entorno_Simulacion
+
+4. Actívalo con:
+   ```bash
+   .\Entorno_Simulacion\Scripts\activate
+
+5. Instala las librerías necesarias ejecutando:  
    ```bash
    pip install numpy scipy matplotlib pygame pillow
